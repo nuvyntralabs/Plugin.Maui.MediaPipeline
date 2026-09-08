@@ -221,7 +221,7 @@ dotnet pack src/Plugin.Maui.MediaPipeline/Plugin.Maui.MediaPipeline.csproj -c Re
 dotnet test tests/Plugin.Maui.MediaPipeline.Tests/Plugin.Maui.MediaPipeline.Tests.csproj
 ```
 
-The `.nupkg` is written to `artifacts/Plugin.Maui.MediaPipeline.1.0.0.nupkg`.
+The `.nupkg` is written to `artifacts/Plugin.Maui.MediaPipeline.1.0.7.nupkg`.
 
 ## License
 

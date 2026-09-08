@@ -31,8 +31,8 @@
     <PackageProjectUrl>https://nuvyntralabs.github.io/packages/plugin-maui-media-pipeline/</PackageProjectUrl>
     <RepositoryUrl>https://github.com/nuvyntralabs/Plugin.Maui.MediaPipeline</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <Version>1.0.6</Version>
-    <PackageReleaseNotes>Add Mac Catalyst and Windows TFMs for the shared (non-native) implementation.</PackageReleaseNotes>
+    <Version>1.0.7</Version>
+    <PackageReleaseNotes>Re-validation: align pack artifact version. Tests and sample cover resize, compress, EXIF, watermark, blur, and encrypt.</PackageReleaseNotes>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>

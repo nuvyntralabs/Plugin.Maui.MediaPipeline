@@ -38,6 +38,9 @@
                 <Label Text="Encrypt (AES-256-GCM)" VerticalOptions="Center" />
             </HorizontalStackLayout>
 
+            <Button Text="Process bundled sample" Clicked="OnBundledClicked" />
+            <Button Text="Process bundled + encrypt" Clicked="OnBundledEncryptClicked" />
+            <Button Text="Upload bundled (mock)" Clicked="OnBundledUploadClicked" />
             <Button Text="Capture from camera" Clicked="OnCameraClicked" />
             <Button Text="Pick from gallery" Clicked="OnGalleryClicked" />
 

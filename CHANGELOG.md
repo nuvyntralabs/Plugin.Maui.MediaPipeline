@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.7
+
+- Align the documented pack artifact version with the library version
+- Re-validate resize, compress, EXIF, watermark, blur, encrypt, and pipeline (28 tests)
+
 ## 1.0.3
 
 - Rebrand package metadata and catalog references to MauiEssentials.
