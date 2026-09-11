@@ -4,7 +4,7 @@ Fluent media processing for .NET MAUI: capture, resize, compress, strip EXIF, wa
 
 Repository: https://github.com/nuvyntralabs/Plugin.Maui.MediaPipeline
 NuGet: https://www.nuget.org/packages/Plugin.Maui.MediaPipeline
-Paper: https://niladripadhy.vercel.app/opensource/plugin-maui-media-pipeline
+Paper: https://nuvyntralabs.github.io/packages/plugin-maui-media-pipeline/
 Catalog: https://github.com/nuvyntralabs/MauiEssentials
 License: MIT
 
